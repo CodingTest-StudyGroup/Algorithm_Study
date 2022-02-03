@@ -15,7 +15,7 @@
     
     [1541번: 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
     
-    [1120번: ](https://www.acmicpc.net/problem/1120)
+    [1120번: 문자열](https://www.acmicpc.net/problem/1120)
     
     [1213번: 팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
     
