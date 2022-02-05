@@ -21,7 +21,7 @@
     
 ### 정렬 - 2월 2째주
     
-    [2012번:등수 매기기](https://www.acmicpc.net/problem/2012)
+    [2012번: 등수 매기기](https://www.acmicpc.net/problem/2012)
     
     [1431번: 시리얼 번호](https://www.acmicpc.net/problem/1431)
     
@@ -29,7 +29,7 @@
     
     [1931번: 회의실 배정](https://www.acmicpc.net/problem/1931)
     
-    #추가
+    *추가
     [2212번: 센서](https://www.acmicpc.net/problem/2212)
     [5052번: 전화번호 목록](https://www.acmicpc.net/problem/5052)
 ### 완전 탐색 - 2월 3째주
