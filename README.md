@@ -21,7 +21,7 @@
     
 ### 정렬 - 2월 2째주
     
-    [2012번: 등수 매기기](https://www.acmicpc.net/problem/2012)
+    [2012번:등수 매기기](https://www.acmicpc.net/problem/2012)
     
     [1431번: 시리얼 번호](https://www.acmicpc.net/problem/1431)
     
