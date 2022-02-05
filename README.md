@@ -29,8 +29,9 @@
     
 [1931번: 회의실 배정](https://www.acmicpc.net/problem/1931)
     
-*추가*
+# 추가
 [2212번: 센서](https://www.acmicpc.net/problem/2212)
+
 [5052번: 전화번호 목록](https://www.acmicpc.net/problem/5052)
 ### 완전 탐색 - 2월 3째주
 ### 그리디 - 2월 4째주
