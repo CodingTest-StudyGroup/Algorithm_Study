@@ -1,37 +1,37 @@
 # Algorithm_Study
 ### 구현 - 1월 4째주
     
-    [1713번: 후보 추천하기](https://www.acmicpc.net/problem/1713)
+[1713번: 후보 추천하기](https://www.acmicpc.net/problem/1713)
     
-    [16926번: 배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+[16926번: 배열 돌리기 1](https://www.acmicpc.net/problem/16926)
     
-    [2621번: 카드게임](https://www.acmicpc.net/problem/2621)
+[2621번: 카드게임](https://www.acmicpc.net/problem/2621)
     
-    [8979번: 올림픽](https://www.acmicpc.net/problem/8979)
+[8979번: 올림픽](https://www.acmicpc.net/problem/8979)
     
 ### 문자열 - 2월 1째주
     
 [3048번: 개미](https://www.acmicpc.net/problem/3048)
     
-    [1541번: 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
+[1541번: 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
     
-    [1120번: 문자열](https://www.acmicpc.net/problem/1120)
+[1120번: 문자열](https://www.acmicpc.net/problem/1120)
     
-    [1213번: 팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
+[1213번: 팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
     
 ### 정렬 - 2월 2째주
     
-    [2012번: 등수 매기기](https://www.acmicpc.net/problem/2012)
+[2012번: 등수 매기기](https://www.acmicpc.net/problem/2012)
     
-    [1431번: 시리얼 번호](https://www.acmicpc.net/problem/1431)
+[1431번: 시리얼 번호](https://www.acmicpc.net/problem/1431)
     
-    [1174번: 줄어드는 수](https://www.acmicpc.net/problem/1174)
+[1174번: 줄어드는 수](https://www.acmicpc.net/problem/1174)
     
-    [1931번: 회의실 배정](https://www.acmicpc.net/problem/1931)
+[1931번: 회의실 배정](https://www.acmicpc.net/problem/1931)
     
-    *추가*
-    [2212번: 센서](https://www.acmicpc.net/problem/2212)
-    [5052번: 전화번호 목록](https://www.acmicpc.net/problem/5052)
+*추가*
+[2212번: 센서](https://www.acmicpc.net/problem/2212)
+[5052번: 전화번호 목록](https://www.acmicpc.net/problem/5052)
 ### 완전 탐색 - 2월 3째주
 ### 그리디 - 2월 4째주
 ### 분할 정복 - 3월 1째주
