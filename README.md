@@ -11,7 +11,7 @@
     
 ### 문자열 - 2월 1째주
     
-    [3048번: 개미](https://www.acmicpc.net/problem/3048)
+[3048번: 개미](https://www.acmicpc.net/problem/3048)
     
     [1541번: 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
     
