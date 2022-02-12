@@ -34,6 +34,20 @@
 
 [5052번: 전화번호 목록](https://www.acmicpc.net/problem/5052)
 ### 완전 탐색 - 2월 3째주
+
+[2529번: 부등호](https://www.acmicpc.net/problem/2529)
+
+[1012번: 유기농 배추](https://www.acmicpc.net/problem/1012)
+
+[1743번: 음식물 피하기](https://www.acmicpc.net/problem/1743)
+
+[2210번: 숫자판 점프](https://www.acmicpc.net/problem/2210)
+
+##### +
+[2206번: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+
+[17135번: 캐슬 디펜스](https://www.acmicpc.net/problem/17135)
+
 ### 그리디 - 2월 4째주
 ### 분할 정복 - 3월 1째주
 ### DFS & BFS(그래프 탐색) - 3월 2째주
