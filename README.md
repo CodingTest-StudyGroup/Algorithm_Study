@@ -49,6 +49,19 @@
 [17135번: 캐슬 디펜스](https://www.acmicpc.net/problem/17135)
 
 ### 그리디 - 2월 4째주
+
+[1080번: 행렬](https://www.acmicpc.net/problem/1080)
+
+[1449번: 수리공 항승](https://www.acmicpc.net/problem/1449)
+
+[1026번: 보물](https://www.acmicpc.net/problem/1026)
+
+[17615번: 볼 모으기](https://www.acmicpc.net/problem/17615)
+
+##### +
+[1946번: 신입 사원](https://www.acmicpc.net/problem/1946)
+
+[11509번: 풍선 맞추기](https://www.acmicpc.net/problem/11509)
 ### 분할 정복 - 3월 1째주
 ### DFS & BFS(그래프 탐색) - 3월 2째주
 ### 다이나믹 프로그래밍 - 3월 3째주
